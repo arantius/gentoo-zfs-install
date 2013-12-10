@@ -33,7 +33,7 @@ livecd/packages:
 	sys-apps/gptfdisk
 	=app-misc/livecd-tools-2.0.2
 	=sys-kernel/genkernel-3.4.16
-	=sys-kernel/gentoo-sources-3.1.6
+	=sys-kernel/gentoo-sources-3.8.13
 	app-accessibility/brltty
 	app-admin/hddtemp
 	app-admin/passook

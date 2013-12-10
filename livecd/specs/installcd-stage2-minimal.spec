@@ -28,8 +28,8 @@ livecd/rcadd:
 
 boot/kernel: gentoo
 
-boot/kernel/gentoo/sources: =sys-kernel/gentoo-sources-3.1.6
-boot/kernel/gentoo/config: /root/livecd/specs/installcd-3.1.6.config 
+boot/kernel/gentoo/sources: =sys-kernel/gentoo-sources-3.8.13
+boot/kernel/gentoo/config: /root/livecd/specs/installcd-3.8.13.config 
 # /release/svn-releng/trunk/releases/weekly/kconfig/amd64/installcd-2.6.38.config
 boot/kernel/gentoo/use:
 	-*
